@@ -1,0 +1,6 @@
+Date  Who   Start  Stop    Interruptions  Question  TimeOnTask    Comments
+9/03  SAB   17:00  19:00     10+5          1-6       105        Analysed and solved Q1 to Q6
+9/04  SAB   13:00  14:30      10           7-10      80         Analysed and solved Q7 to Q10
+9/06  SAB   14:00  15:00      15           1-10      45         Installed the Github Client and set up the github repository
+9/07  SAB   22:00  23:30      15           1-10      75         Formatted Q1 to Q10 and wrote the test cases for the same
+============committing to git: 9/08 00:15 ===================
